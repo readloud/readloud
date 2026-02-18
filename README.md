@@ -24,9 +24,6 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true"/>
   <a href="https://github.com/readloud/github-stats">
   <a href="https://github.com/readloud/github-achievements">
 </div>
