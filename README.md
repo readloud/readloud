@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 ![GitHub Issues](https://img.shields.io/github/issues/danielmiessler/SecLists?Tssues)
 
 ![Facebook](https://img.shields.io/badge/facebook-page-blue.svg?url=https://facebook.com/anonymansz)
-![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg?url=https://facebook.com/mansz81)
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
+![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg?url=https://facebook.com/mansz.81)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz.81?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/anonymansz81?label=Follow)
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
@@ -42,23 +42,17 @@ Here are some ideas to get you started:
 
 <!-- TABLE OF CONTENTS -->
 ## 📴 Summary
-[🏠 Homepage](https://readloud.github.io/)
-
-[🐙 Gist](https://gist.github.com/readloud)
-
-[📝 Pastebin](https://pastebin.com/u/mansz81)
-
-[🔖 Cheatsheets](https://github.com/readloud/h4cker.git)
-
-[📄 Documentation](https://github.com/readloud/Personal-Documentation)
-
-[📚 Wiki](https://github.com/readloud/readloud/wiki/)
-
-[💱 Faucet Monitor](https://readloud.github.io/faucetmonitor/)
-
-[💽 Windows 11 Pro for Unsupported Device](https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/)
-
-[📴 Old Documentation](https://github.com/oneplus-x)
+<p align="center">
+  <a href="https://readloud.github.io/">🏠 Homepage</a>
+  <a href="https://gist.github.com/readloud">🐙 Gist</a>
+  <a href="https://pastebin.com/u/mansz81">📝 Pastebin</a>
+  <a href="https://github.com/readloud/h4cker.git">🔖 Cheatsheets</a>
+  <a href="https://github.com/readloud/readloud/wiki/">📚 Wiki</a>
+  <a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a>
+  <a href="https://github.com/readloud/Personal-Documentation">📄 Documentation</a>
+  <a href="https://github.com/oneplus-x">📴 Old Documentation</a>
+  <a href="https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/">💽 Windows 11 Pro for Unsupported Device</a>
+</p>
 
 ## 🤝 Contributing 🤝
   
